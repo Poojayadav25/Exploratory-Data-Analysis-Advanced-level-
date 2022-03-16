@@ -1,3 +1,4 @@
-# prediction-using-unsupervise-ML
-#task2 (DAta science and busniess analysis) #thesparksfoundation
-predict the optimum number of clusers and represent it visually
+# Exploratory-Data-Analysis
+(#THESPARKSFOUNDATION) #DataScience #gripnov21
+1-perform Exploratory data analysis on the dataset "samplesuperstore"
+2-As a business manager try to find out the weak area where you can work to make more profit.

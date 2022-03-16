@@ -1,4 +1,7 @@
-# Exploratory-Data-Analysis-Advanced-level-
-- perform Exploratory data analysis on the dataset "indial premier league"
-- As a sports analysts,find out most successfull teams, players and factors contributing win or loss of a team.
-- Suggest teams or players a company should endorse for it products.
+
+#  Prediction using supervise ML
+
+Data science and business analytics
+Task1:-In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables."
+   ]
+

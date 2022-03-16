@@ -1,7 +1,3 @@
-
-#  Prediction using supervise ML
-
-Data science and business analytics
-Task1:-In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables."
-   ]
-
+# prediction-using-unsupervise-ML
+#task2 (DAta science and busniess analysis) #thesparksfoundation
+predict the optimum number of clusers and represent it visually
